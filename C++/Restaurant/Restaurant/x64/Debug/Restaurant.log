@@ -1,8 +1,0 @@
-﻿  FileName.cpp
-C:\Users\Radu\source\repos\[Proiect][1051][Dinu Radu-Gabriel] - [Faza 2]\[Proiect][1051][Dinu Radu-Gabriel] - [Faza 2]\FileName.cpp(166,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Radu\source\repos\[Proiect][1051][Dinu Radu-Gabriel] - [Faza 2]\[Proiect][1051][Dinu Radu-Gabriel] - [Faza 2]\FileName.cpp(172,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Radu\source\repos\[Proiect][1051][Dinu Radu-Gabriel] - [Faza 2]\[Proiect][1051][Dinu Radu-Gabriel] - [Faza 2]\FileName.cpp(485,42): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Radu\source\repos\[Proiect][1051][Dinu Radu-Gabriel] - [Faza 2]\[Proiect][1051][Dinu Radu-Gabriel] - [Faza 2]\FileName.cpp(495,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Radu\source\repos\[Proiect][1051][Dinu Radu-Gabriel] - [Faza 2]\[Proiect][1051][Dinu Radu-Gabriel] - [Faza 2]\FileName.cpp(499,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Radu\source\repos\[Proiect][1051][Dinu Radu-Gabriel] - [Faza 2]\[Proiect][1051][Dinu Radu-Gabriel] - [Faza 2]\FileName.cpp(414): warning C4715: 'Preparat::operator=': not all control paths return a value
-  [Proiect][1051][Dinu Radu-Gabriel] - [Faza 2].vcxproj -> C:\Users\Radu\source\repos\[Proiect][1051][Dinu Radu-Gabriel] - [Faza 2]\x64\Debug\[Proiect][1051][Dinu Radu-Gabriel] - [Faza 2].exe

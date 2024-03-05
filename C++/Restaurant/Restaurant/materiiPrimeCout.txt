@@ -1,0 +1,52 @@
+
+Denumire: sare
+Cantitate disponibila: 3000
+Furnizor: Pirifan
+
+Denumire: piper
+Cantitate disponibila: 1000
+Furnizor: Cosmin
+
+Denumire: faina
+Cantitate disponibila: 5000
+Furnizor: Dobrogea
+
+Denumire: ulei
+Cantitate disponibila: 3000
+Furnizor: Bunica
+
+Denumire: carne
+Cantitate disponibila: 8000
+Furnizor: Lidl
+
+Denumire: cascaval
+Cantitate disponibila: 2000
+Furnizor: Hochland
+
+Denumire: uleiMasline
+Cantitate disponibila: 1500
+Furnizor: Olivia
+
+Denumire: ciocolata
+Cantitate disponibila: 1200
+Furnizor: Milka
+
+Denumire: oua
+Cantitate disponibila: 5000
+Furnizor: EcoFarm
+
+Denumire: zahar
+Cantitate disponibila: 2000
+Furnizor: Boromir
+
+Denumire: lapte
+Cantitate disponibila: 3000
+Furnizor: Albalact
+
+Denumire: avocado
+Cantitate disponibila: 1000
+Furnizor: BioFarm
+
+Denumire: sosBarbecue
+Cantitate disponibila: 1800
+Furnizor: Heinz
